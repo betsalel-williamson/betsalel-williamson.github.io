@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "University of Pittsburgh - Student Electronics Resource Center"
+date:   2018-05-01 20:15:01 -0500
+categories: work
+---
+
 ECE Technical Intern
 University of Pittsburgh · Part-time
 May 2018 - Jan 2019

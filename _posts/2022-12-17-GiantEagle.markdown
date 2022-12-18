@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Giant Eagle, Inc."
+date:   2011-07-01 20:15:01 -0500
+categories: work
+---
+
 Front End Service Clerk
 Giant Eagle, Inc. · Part-time
 Jul 2011 - Oct 2013
