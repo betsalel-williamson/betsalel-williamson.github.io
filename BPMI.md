@@ -1,7 +1,7 @@
 Associate Engineer
 Bechtel Plant Machinery, Inc. · Full-time
 Jan 2019 - Oct 2020
-Greater Pittsburgh AreaGreater Pittsburgh Area
+Greater Pittsburgh Area
 
 Worked directly with stakeholders from the US Navy, laboratories, shipyards, and suppliers in the Naval Nuclear Propulsion Program. Developed product strategies, technical recommendations, and estimates for power systems that support, operate, monitor, and control shipboard reactors.
 
