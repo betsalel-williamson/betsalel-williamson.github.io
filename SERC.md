@@ -1,7 +1,7 @@
 ECE Technical Intern
 University of Pittsburgh · Part-time
 May 2018 - Jan 2019
-Greater Pittsburgh AreaGreater Pittsburgh Area
+Greater Pittsburgh Area
 
 Worked as a technition in the Student Electronics Resource Center (SERC) to provide technical electrical and computer engineering services to students, faculty, and staff.
 
