@@ -1,0 +1,16 @@
+Research Assistant
+Carnegie Mellon University · Part-time
+Jun 2016 - Jan 2019
+Pittsburgh, Pennsylvania
+
+Full stack web development. Manged servers and integrated command line utilities with a web backend and front end interface so that projects were effectively demoed to stakeholders and employees. Built and maintained websites. Implemented server security measures and identified unauthorized attempts to connect to the servers.
+
+Improved the user interface with demo that demonstrated live facial recognition using IP web camera.
+
+Development of desktop application for law enforcement professionals. Created design document and facilitated project transfer upon graduating from school.
+
+Built app that used AWS facial recognition API to process images for benchmark with ongoing research.
+
+Assisted with research and writing for grant to NIST. Developed Latex template on Overleaf.com for improved group collaboration.
+
+Skills: Angular, Bootstrap, C++, Caffe, Express, Java, Java 8, JavaFX, Kotlin, Latex, Linux, MatLab, Nginx, NodeJS, OpenCV, Python, SSL, Ubuntu 14 16, Windows 2007
