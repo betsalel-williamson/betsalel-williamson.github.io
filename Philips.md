@@ -1,7 +1,7 @@
 Cooperative Education Student
 Philips · Internship
 Apr 2015 - Aug 2017
-Murrysville, Pennsylvania, United StatesMurrysville, Pennsylvania, United States
+Murrysville, Pennsylvania, United States
 
 Worked at Philips Respironics in the capacity of a software engineering and electrical engineering cooperative education student. First three coop rotations, worked as a contractor through Adecco USA, Inc as a software engineering coop. Fourth coop rotation, worked directly through Philips Respironics as an electrical engineering coop.
 
